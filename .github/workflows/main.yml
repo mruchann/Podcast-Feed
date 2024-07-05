@@ -1,0 +1,10 @@
+name: Generate Feed
+on: [push]
+jobs:
+  generate-feed:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+      - name: Run Feed Generator
+        uses: mruchann/Podcast-Generator@master
