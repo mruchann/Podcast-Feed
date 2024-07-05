@@ -1,7 +1,7 @@
 title: The Future in Tech
 subtitle: Powered by LinkedIn Learning
 author: Ray Villalobos
-description: Conversations with leaders building next generation techology tools.
+description: Conversations with leaders building next-generation technology tools.
 image: /images/artwork.jpg
 language: en-us
 category: Technology
@@ -39,3 +39,9 @@ item:
     file: /audio/TFIT05.mp3
     duration: 00:00:22
     length: 352,587
+  - title: EP06-Tech Innovations to Watch in 2024
+    description: Host Amanda Johnson and guest tech analysts Chris Lee and Dana Scott explore the groundbreaking technologies and trends expected to shape 2024.
+    published: Mon, 15 Jul 2024 15:30:00 GMT
+    file: /audio/TFIT06.mp3
+    duration: 00:02:36
+    length: 600,000
