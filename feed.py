@@ -1,3 +1,5 @@
+# https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
+
 import yaml
 import xml.etree.ElementTree as xml_tree
 
